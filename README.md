@@ -27,7 +27,7 @@
 <a href="https://image.baidu.com/" style="text-decoration: none;">图片</a>
 <a href="https://pan.baidu.com/disk/main?from=1026962h#/index?category=all" style="text-decoration: none;">百度网盘</a>
 <a href="https://www.baidu.com/more/" style="text-decoration: none;">更多</a>
-<img src="../AAA/img/R-C.gif" alt="">
+<img src="https://pic4.zhimg.com/v2-42305d798f09a39a5df5777fd75f9b90_r.jpg?source=1940ef5c" alt="">
 
 
 
